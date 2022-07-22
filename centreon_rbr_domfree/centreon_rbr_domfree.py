@@ -9,8 +9,8 @@ import json
 domain='andreantunes.com.br'
 #url=rbr_url+domain
 url='https://api.dev.name.com/v4/domains:search'
-user='groundwork.andre-test'
-passwd='ec3862ced6c6dba6cacc14665f1e31b7e8824502'
+user='aaaaaaaaaaaaa'
+passwd='*************'
 data={
     'keyword':domain
 }
